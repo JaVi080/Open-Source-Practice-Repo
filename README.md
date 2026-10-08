@@ -2,7 +2,7 @@
 
 Welcome to the GDG Open Source Practice repository!
 
-This repository helps beginners understand how to make their first open-source contributon to open-source projects using GitHub's graphical interface.
+This repository helps beginners understand how to make their first open-source contribution to open-source projects using GitHub's graphical interface.
 
 ## Our Goal
 
