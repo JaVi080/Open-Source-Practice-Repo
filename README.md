@@ -39,3 +39,13 @@ Before contributing, read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Your first contribution does not need to be complicated.
 A small, useful improvement is a great place to start!
+
+## Basic Github Terms
+
+- **Repository:** A place where a project's files, code, and history are stored.
+- **Issue:** A way to report a bug, suggest a feature, or discuss a problem in a project.
+- **Fork:** A personal copy of someone else's repository that you can modify without changing the original project.
+- **Commit:** A saved set of changes made to files in a repository.
+- **Pull Request:** A request to merge your changes into another branch or repository. It allows others to review your changes before merging them.
+- **Requirements:** The conditions or needs that a project must meet. They describe what the project should do or what is needed to run it.
+
